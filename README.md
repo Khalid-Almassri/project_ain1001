@@ -6,3 +6,5 @@ This Python script loads data from a csv file, calculates the SMA (simple moving
 
 Make sure python is already installed and running on your device. 
 
+### STUDENT ID
+2355947-khalid almassri
